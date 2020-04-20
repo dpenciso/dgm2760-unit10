@@ -4,25 +4,25 @@
             "name": "Marriot",
             "rooms": "50",
             "gym": "Yes",
-            "roomTypes": ["King", "Queen", "Double"],
+            "roomTypes": ["King", " Queen", " Double"],
             "address": "123 Broadway Way",
-            "picture": "room1.jpg"
-        }
+            "picture": "images/room1.jpg"
+        },
         {
             "name": "Hyatt",
             "rooms": "75",
             "gym": "No",
-            "roomTypes": ["King", "Queen", "Single"],
+            "roomTypes": ["King", " Queen", " Single"],
             "address": "456 Easy St",
-            "picture": "room2.jpg"
-        }
+            "picture": "images/room2.jpg"
+        },
         {
             "name": "Hilton",
             "rooms": "100",
             "gym": "Yes",
-            "roomTypes": ["King", "Queen", "Double", "Single"],
+            "roomTypes": ["King", " Queen", " Double", " Single"],
             "address": "789 King Cir",
-            "picture": "room3.jpg"
+            "picture": "images/room3.jpg"
         }
     ]
 }
